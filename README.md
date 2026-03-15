@@ -1,40 +1,82 @@
 # Hi there, I'm Apurva 👋
 
-🔭 Currently pursuing **BCA (3rd year)** and building my skills in web development.
+🔭 I’m currently pursuing **BCA (3rd year)** and building my skills in **Web Development and Digital Marketing**.
 
-👯 Looking to collaborate on **web development** and **digital marketing** projects.
+👯 I’m looking to collaborate on **Web Development** and **Digital Marketing** projects.
 
-🤝 Looking for help with improving my coding skills and gaining practical project experience.
+🤝 I’m looking for help with **improving my coding skills and gaining practical project experience**.
 
-🌱 Currently learning **PHP**, **MySQL**, and digital marketing tools like **SEO** and **Google Ads**.
+🌱 I’m currently learning **PHP, MySQL, SEO, and Google Ads**.
 
-💬 Ask me about basic web development, PHP projects, and digital marketing.
+💬 Ask me about **basic web development, PHP projects, and digital marketing**.
 
-⚡ Fun fact: I enjoy learning how websites work and how marketing can help them grow online.
+⚡ Fun fact: I enjoy learning how websites work and how digital marketing helps them grow online.
 
 ---
 
 ## 🛠️ Skills
 
-**Web Development**
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- Bootstrap, Responsive Design
+### 💻 Web Development
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+- Responsive Design
 
-**Digital Marketing**
+### 📈 Digital Marketing
 - SEO (Search Engine Optimization)
 - Google Ads
 - Content Strategy
 
-**Tools**
+### ⚙️ Tools
 - Git & GitHub
 - VS Code
 - XAMPP
 
 ---
 
+## 💼 Experience
+
+### Tech Support Intern – Ashwamedh Motors Pvt. Ltd.
+**June 2025 – August 2025**
+
+- Provided technical support and troubleshooting to users  
+- Assisted with system maintenance and IT operations  
+- Worked on **network and system security projects**
+
+### Cyber Security Intern – Ediglobe
+
+- Learned cyber security fundamentals  
+- Worked on system and network protection basics  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Currently Pursuing
+
+**HSC (Commerce)** – Kishinchand Chellaram College, Mumbai  
+Score: **75%**
+
+**SSC** – Golden Nest English High School  
+Score: **92.20%**
+
+---
+
 ## 🔗 Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/apurvaghanate)
-- 🌐 Portfolio — *coming soon*
-- 📄 Resume — *coming soon*
+🌐 **Portfolio**  
+https://apurva.infinityfreeapp.com/?i=1  
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/apurvaghanate  
+
+📄 **Resume**  
+(Add your resume file link here)
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
